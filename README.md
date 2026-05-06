@@ -4,7 +4,6 @@
 
 <div align="center">
   <img src="icon.png" height="160" alt="yolor logo"/>
-  <h1>yolor</h1>
   <p><strong>R-Native YOLO Object Detection...</strong></p>
 </div>
 
